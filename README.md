@@ -1,2 +1,2 @@
 # Clairvoyance Dokumentation
-[another page](./Characters.md)
+[another page](docs/Characters.md)
