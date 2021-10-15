@@ -1,6 +1,6 @@
 # Clairvoyance Dokumentation
 
-Im [Wiki](Home) kann alles nachgelesen werden.
+Im [Wiki](https://github.com/MauriceHuchler/Clairvoyance/wiki) kann alles nachgelesen werden.
 
 ## Beschreibung
 *Clairvoyance* ist ein rundenbasiertes PvP Spiel. Jede*r Spieler*innen versucht die Züge des Gegners hervorzusehen und zu planen.
