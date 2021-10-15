@@ -1,5 +1,7 @@
 # Clairvoyance Dokumentation
 
+Im [Wiki](Home) kann alles nachgelesen werden.
+
 ## Beschreibung
 *Clairvoyance* ist ein rundenbasiertes PvP Spiel. Jede*r Spieler*innen versucht die Züge des Gegners hervorzusehen und zu planen.
 Das Ziel des Spiels liegt darin mithilfe von Taktischer überlegenheit das Gegnerische Team auszuschalten. Dabei liegt vor Allem der Fokus darauf sein eigenes Team zu beschützen. 
