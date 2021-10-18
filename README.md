@@ -8,7 +8,7 @@ Das Ziel des Spiels liegt darin mithilfe von Taktischer überlegenheit das Gegne
 Alle Züge werden im Voraus geplant. Anschließend werden die Züge durchgeführt.Der Spieler*in mit der besseren Strategie siegt.
 
 #### Heldenübersicht
-[Excel Doc](https://hsfurtwangende-my.sharepoint.com/:x:/g/personal/maurice_huchler_associate_hs-furtwangen_de/EdXXxNQYHBJIgDJaYDJ4m9ABGoEZ4JZLooQlrGXlHPVUrw?e=mti2Lt)
+[Excel Doc](https://hsfurtwangende-my.sharepoint.com/:x:/g/personal/maurice_huchler_associate_hs-furtwangen_de/EUSvx3w8PEBLmGTC0bD9GHcBrp8Vm50Up4syzOBZ8Qu-ww?e=uMNbwb)
 ## Spielablauf
 ### vor dem Spiel
 *Du* als Spieler*in wählst dein Team aus verschiedenen Einheiten aus. Dabei kannst du zwischen verschiedenen *[Held*innen](docs/Characters.md)* wählen und somit dein*e ganz eigenes *Loadout* kreiren.
