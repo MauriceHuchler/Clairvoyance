@@ -1,6 +1,21 @@
-# Clairvoyance Dokumentation
+![Logo_01](https://user-images.githubusercontent.com/48796243/140915664-1a15d780-52a7-47ce-8c6a-0d386cb617ab.png)
 
-Im [Wiki](https://github.com/MauriceHuchler/Clairvoyance/wiki) kann alles nachgelesen werden.
+Im [Wiki](https://github.com/MauriceHuchler/Clairvoyance/wiki) können mehr Details über das Spiel herausgefunden werden.
+
+## Installation
+
+1. Ladet euch das Spiel hier(cooming soon.) herunter.
+
+2. Entpackt das Spiel an Euren gewünschten Ort.
+
+3. Fügt die .exe über Steam -> Fremdes Spiel hinzufügen in die Steam-Bibliothek.
+ 
+   ![fremdesSpiel](https://user-images.githubusercontent.com/48796243/140915285-3319f40c-3873-4dcb-bfd4-b670b6b3b3f1.png)
+   
+4. Startet das Spiel über Steam. Ihr könnt jetzt alle Steam-Funktionen nutzen.
+
+
+  
 
 ## Beschreibung
 *Clairvoyance* ist ein rundenbasiertes PvP Spiel. Jede*r Spieler*innen versucht die Züge des Gegners hervorzusehen und zu planen.
