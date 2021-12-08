@@ -38,11 +38,12 @@ Jeder Held kann sich in der Planphase zwischen Zwei Sachen wählen.
 Die in der *Planphase* gesetzten Bewegungen & Skills werden durchgeführt. Der Spieler hat keinen Einfluss mehr auf das geschehen.
 
 **WICHTIG** Die Reihenfolge der durchgeführten Ausführungen ist wie folgt:
-
-   1. Alle Heal Fähigkeiten
-   2. Alle Damage Fähigkeiten
-   3. Alle Buff-Eigenschaften
-   4. Alle Bewegungen
+   
+   1. Alle Bewegungen
+   2. Alle Heal Fähigkeiten
+   3. Alle Damage Fähigkeiten
+   4. Alle Buff-Eigenschaften
+   
 
 
 
