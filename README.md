@@ -4,7 +4,7 @@ Im [Wiki](https://github.com/MauriceHuchler/Clairvoyance/wiki) können mehr Deta
 
 ## Installation
 
-1. Ladet euch das Spiel [hier](https://github.com/MauriceHuchler/Clairvoyance/blob/main/Builds.rar) herunter.
+1. Ladet euch das Spiel [hier](https://github.com/MauriceHuchler/Clairvoyance/blob/main/Clairvoyance.zip) herunter.
 
 2. Entpackt das Spiel an Euren gewünschten Ort.
 
