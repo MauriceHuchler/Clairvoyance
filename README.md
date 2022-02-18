@@ -1,8 +1,10 @@
-![Logo_01](https://user-images.githubusercontent.com/48796243/140915664-1a15d780-52a7-47ce-8c6a-0d386cb617ab.png)
+![LogoV2](https://user-images.githubusercontent.com/48796243/154684891-e2f958e8-7ee3-4098-8288-6993564e6bf1.jpg)
+
 
 Im [Wiki](https://github.com/MauriceHuchler/Clairvoyance/wiki) können mehr Details über das Spiel herausgefunden werden.
 
-## Installation
+## Installation![Uploading LogoV2.jpg…]()
+
 
 1. Ladet euch das Spiel [hier](https://github.com/MauriceHuchler/Clairvoyance/blob/main/Clairvoyance.zip) herunter.
 
