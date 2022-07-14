@@ -2,7 +2,7 @@
 
 
 
-## Installation![Uploading LogoV2.jpg…]()
+## Installation!
 
 
 1. Ladet euch das Spiel [hier](https://github.com/MauriceHuchler/Clairvoyance/blob/main/Clairvoyance.zip) herunter.
